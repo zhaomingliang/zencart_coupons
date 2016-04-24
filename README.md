@@ -45,3 +45,7 @@
 ```
 #安装插件
 请将文件上传到 includes 目录，访问域名+/index.php?main_page=receive_coupons
+
+
+#唠嗑
+欢迎大家的对项目进行Pull 
