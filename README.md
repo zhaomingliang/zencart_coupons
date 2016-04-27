@@ -6,7 +6,7 @@
 - [zencart 优惠劵](https://github.com)
 - [zencart 大转盘](https://github.com)
 - [zencart 分享领取优惠劵](https://github.com)
-- [zencart 9宫格抽奖](https://github.com)
+- [zencart 9宫格抽奖](https://github.com/zhaomingliang/zencart_draw_squares)
 
 ---
 # 功能截图
