@@ -49,3 +49,7 @@
 
 #唠嗑
 欢迎大家的对项目进行Pull 
+
+#打赏
+开源项目，欢迎打赏。谢谢各位支持
+<img src="http://www.zhaomingliang.cn/usr/uploads/qc.png" />
