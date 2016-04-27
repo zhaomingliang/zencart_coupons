@@ -52,4 +52,4 @@
 
 #打赏
 开源项目，欢迎打赏。谢谢各位支持
-<img src="http://www.zhaomingliang.cn/usr/uploads/qc.png" />
+<img src="http://www.zhaomingliang.cn/usr/uploads/qc.jpg" />
